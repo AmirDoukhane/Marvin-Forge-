@@ -1,2 +1,2 @@
 # Marvin-Forge-
-Marvin CI Forge is a DevOps project that automates the complete configuration of a Jenkins instance using Configuration as Code and the Job DSL. It establishes a repeatable, secure, and ready-to-forge continuous integration pipeline, enabling automatic code building, testing, and delivery.
+Marvin CI Forge est une solution DevOps visant à automatiser la configuration complète de Jenkins à l’aide de Configuration as Code et du Job DSL. Elle fournit une plateforme d’intégration continue standardisée et sécurisée, capable d’orchestrer automatiquement les étapes de build, de test et de livraison des applications.
